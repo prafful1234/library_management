@@ -1,6 +1,6 @@
 ## Library Management
 
-laib mng
+laib mng - APP FOR LIBS
 
 #### License
 
